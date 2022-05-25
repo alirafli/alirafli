@@ -1,40 +1,23 @@
-## 👋 Hi There!
+## 👏 Hi People!
 
-My name is Rakhmad Giffari Nurfadhilah, and i'm currently studying at Brawijaya University Malang. I'm interested in Backend especially Go and Javascript, but React JS looks good too👀 .
-Have a Good Day!
-
-## 📂 Directory
-<pre>
-├─💼 <b>Experience</b>
-│ ├─💟 <a href="https://www.kawanbantu.com/">Kawanbantu</a>                  - <b>Backend Engineering</b>
-│ ├─🔥 <a href="https://bccfilkom.net/">BCC Filkom UB</a>               - <b>Deputy Head of Backend Department</b>
-│ └─👪 <a href="http://kbmti.filkom.ub.ac.id/">EM Teknologi Informasi</a>      - Staff of Development
-│
-├─🎓 <b>Education & Others</b>
-│ └─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Information Technology 2020</b>
-│
-├─🌟 <b>Tech Stack</b>
-│ ├─ JavaScript (React, Node)
-│ ├─ Golang
-│ ├─ Laravel
-│ └─ AWS
-│
-├─📫 <b>Get In Touch</b>
-│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/rakhmad-giffari-nurfadhilah/">/in/rakhmad-giffari-nurfadhilah</a>
-│ └─🌏 Personal site           - <a href="https://fadhilmail.space/">fadhilmail.space/</a>
-│ 
-├─🔥 <b>Check out my pinned repos and see some of my works 😆</b>
-│ 
-└─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=kobulwidodo" alt="masnormen">
-</pre>
+My name is Mohammad Ali Rafli, i'm currently studying at Brawijaya University Malang. I'm focusing on Frontend especially React JS. Feel free to ask! 😊
 
 ## 🌱 Github Values
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobulwidodo&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobulwidodo&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirafli&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirafli&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📫 Get In Touch with me!
+
+<pre>
+ 🛄 LinkedIn                - <a href="https://www.linkedin.com/in/mohammad-ali-rafli/">/in/mohammad-ali-rafli</a>
+ <!-- 🌏 Personal site           - <a href="https://fadhilmail.space/">fadhilmail.space/</a> -->
+
+
+ 🔥 <b>Check out my pinned repos and see some of my works 😆</b>
+</pre>
 <!--
-**kobulwidodo/kobulwidodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alirafli/alirafli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
