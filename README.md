@@ -1,6 +1,6 @@
 ## 👏 Hi People!
 
-My name is Mohammad Ali Rafli, i'm currently studying at Brawijaya University Malang. I'm focusing on Frontend especially React JS. Feel free to ask! 😊
+My name is Mohammad Ali Rafli. I'm currently studying at Brawijaya University Malang. I'm focusing on Frontend especially React JS. Feel free to ask! 😊
 
 ## 🌱 Github Values
 
@@ -11,10 +11,8 @@ My name is Mohammad Ali Rafli, i'm currently studying at Brawijaya University Ma
 
 <pre>
  🛄 LinkedIn                - <a href="https://www.linkedin.com/in/mohammad-ali-rafli/">/in/mohammad-ali-rafli</a>
- <!-- 🌏 Personal site           - <a href="https://fadhilmail.space/">fadhilmail.space/</a> -->
-
-
  🔥 <b>Check out my pinned repos and see some of my works 😆</b>
+ <!-- 🌏 Personal site           - <a href="https://fadhilmail.space/">fadhilmail.space/</a> -->
 </pre>
 <!--
 **alirafli/alirafli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
