@@ -11,8 +11,8 @@ My name is Mohammad Ali Rafli. I'm currently studying at Brawijaya University Ma
 
 <pre>
  🛄 LinkedIn                - <a href="https://www.linkedin.com/in/mohammad-ali-rafli/">/in/mohammad-ali-rafli</a>
- 🔥 <b>Check out my pinned repos and see some of my works 😆</b>
  🌏 Personal site           - <a href="https://alirafli.netlify.app/">alirafli.netlify.app</a>
+ 🔥 <b>Check out my pinned repos and see some of my works 😆</b>
 </pre>
 <!--
 **alirafli/alirafli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
