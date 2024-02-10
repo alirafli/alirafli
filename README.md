@@ -1,6 +1,6 @@
-## 👏 Hi People!
+## Hi! 👋
 
-My name is Mohammad Ali Rafli. I'm currently studying at Brawijaya University Malang. I'm focusing on Frontend especially React JS. Feel free to ask! 😊
+I'm Ali, a passionate front-end developer focusing on React.js, Next.js, and crafting responsive websites. My journey is about bringing creative ideas to life, ensuring every project is a step towards enhancing the web for everyone. I'm always on the lookout for the next exciting project where I can apply my skills and fuel my passion for development! 🚀
 
 ## 🌱 Github Values
 
